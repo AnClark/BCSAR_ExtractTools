@@ -2,7 +2,7 @@
 TITLE Extract bcsar
 
 set "select="
-set/p select=bcsarÃ·»°£®Use Wii3DSUSoundTool£©£¨Press 1 to continue£∫
+set/p select=bcsar extract£®Use Wii3DSUSoundTool£©£¨Press 1 to continue£∫
 if "%select%"=="1" (goto 1)
 :sc_exit
 exit
