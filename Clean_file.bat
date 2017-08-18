@@ -50,7 +50,7 @@ exit
 
 :6
 echo Is cleaning up, please wait
-del *.sf2 *.wav *.txt *.bcseq *.cseq *.bcsar
+del *.sf2 *.wav *.txt *.bcseq *.cseq *.bcsar *.mid
 echo Delete completed
 pause
 exit
